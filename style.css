@@ -1,0 +1,10 @@
+.custom{
+    background-image: url("weather.jpg");
+
+}
+.navbar-brand h2{
+    color: rgb(0, 183, 255);
+    padding-left: 25px;
+   
+    
+}
